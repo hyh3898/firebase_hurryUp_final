@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_fd9810c0604c4cb4bf63118887a589fbcd8c62d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf8c0b6ec17f059cf61ecd101296e16c38562196">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-storage-0.6.1_620d92b6713443a5c81d20f78d80fbc95491b60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_11f16e45bda2c135d9ca5fc41459618953854db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_27d25411971ca043cb0cc817fff2f7ee406a1098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_e831ffe893461080f6c540b37edad0ea9e1ef463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_aaade44d088ce27e9223561e9382f8f06f71bfd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.6.1_ab58661a8cba58a97f26bf4cecca2ec74325a34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d2e39272c60407cb388bcc068dda8953862543ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_83effb90f74c3cfa7803583796c0f23accf4b408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_61f95e6b81f8e4b711f142d26a5641e7091f9fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_b07537c29be97d14db026c81fcb9c21dbaa2fabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f21cd628ef85c35105a2a0e719d11dc4f89ae76">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.1_0f2dc179aec3aacf805d712f7cc20fa5e02ffc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.18.0_04aba781dcd9d4ea1b21f59aaf8f83dd7861deea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_60b460f0675249fcf98d4f59c29d5b956bb75611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_1377cd6c8f7a3f342162d54e680394b966ebbaaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8445d0c0a37a10782ffa5faf68540b435dba9889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_30e517cb52f837b51e1f95e69105bf3cb4dc600b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_c23b731b31fb1f037263d835e0588682e11a320c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.2.1_286f8c32bc89d5ee77a8ef45e6e1454ca0feab40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_222517c321e01ab45b7b86512ae06f84d26e838a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_17d88ef7e3c3f2906199066e76181ba4b26ac346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_c2d2d7113387a28a7c22eb02e8144d806e7a0fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d659725e28bf775bae44a18ba0ec6d8496675977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_d2f9a6bc333f29aec6a25b7d6f974b487cc8c82c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/glide-3.7.0_8fed55d7d70f292558546f2070732fd60f064693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2cde9d355dfaf37b971b728c6cd45023be806606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_ec5b1c875269b8527a826712ff8bae5351f40a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_76385edcce4ddd1535404ed6324964c38f94ebb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_9ea110eb8a0183637dac004f1e577276c43b0694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_1eb2ef52c4a18028c7f250beba2035608aaee6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_5456e869adb4138a23ea18d83a6c9610852bea48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_78bba2fa23786250aaf15a0ac3e82c5e98e7cf00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_d59ded7793b507f1e720faad33daffd5e1d2f2e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_0ecf25919b19f26bfc81df17f255030cd4c8e00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4df3cf359cb45214209536435c1c5abd9f11c628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_12b75bf0e868d5b648a5c2b7b8ab799b0f292f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_4400b2068e5e23ebd6552cc53338085b4ba1c82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_b001ef3c3df530989a8e049cc0a29c2c92548b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_7d6be15d2f577925802974adba4b6656c351dfbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_a84560d855ac5b664f73ae6f3923903fa9562f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_492b7441ccdcff384978abf2d1b361d2ae31883f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_7b84c79f11dd4d588b828355f7cdf927769a48a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_1307190fe2cd582c21dddf335b371a1f13f4ef9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_f4af5e8672720ea3147f2f068a2a57c6f63f83e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_2f66d009f132e174ede4497c79d221a57f85334d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a3a0e05009f5b1d19f0cabdfe7d5453a9184e1c6">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.6.1_d9e30f731be161239e0e3f9769268e734ca37a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/hyh/Desktop/CS591L1FinalProject/firebase_hurryUp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_16ce36eb9416c8cc0c66cd567138b40f435130cc.jar" />
+    </item>
+
+</items>
